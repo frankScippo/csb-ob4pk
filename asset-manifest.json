@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-ob4pk/static/css/main.b3dad5ad.chunk.css",
+    "main.js": "https://.github.io/csb-ob4pk/static/js/main.4426b4b3.chunk.js",
+    "main.js.map": "https://.github.io/csb-ob4pk/static/js/main.4426b4b3.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-ob4pk/static/js/runtime-main.9ee55aa1.js",
+    "runtime-main.js.map": "https://.github.io/csb-ob4pk/static/js/runtime-main.9ee55aa1.js.map",
+    "static/js/2.f0fcdfa7.chunk.js": "https://.github.io/csb-ob4pk/static/js/2.f0fcdfa7.chunk.js",
+    "static/js/2.f0fcdfa7.chunk.js.map": "https://.github.io/csb-ob4pk/static/js/2.f0fcdfa7.chunk.js.map",
+    "index.html": "https://.github.io/csb-ob4pk/index.html",
+    "static/css/main.b3dad5ad.chunk.css.map": "https://.github.io/csb-ob4pk/static/css/main.b3dad5ad.chunk.css.map",
+    "static/js/2.f0fcdfa7.chunk.js.LICENSE.txt": "https://.github.io/csb-ob4pk/static/js/2.f0fcdfa7.chunk.js.LICENSE.txt",
+    "static/media/duck_click.5ecd446a.png": "https://.github.io/csb-ob4pk/static/media/duck_click.5ecd446a.png",
+    "static/media/duck_sound.e6a1b2d8.wav": "https://.github.io/csb-ob4pk/static/media/duck_sound.e6a1b2d8.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ee55aa1.js",
+    "static/js/2.f0fcdfa7.chunk.js",
+    "static/css/main.b3dad5ad.chunk.css",
+    "static/js/main.4426b4b3.chunk.js"
+  ]
+}
